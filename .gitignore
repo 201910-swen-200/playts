@@ -1,0 +1,8 @@
+/node_modules
+.DS*
+*.log
+*~
+!/build/display.html
+/build
+/coverage
+
